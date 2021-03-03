@@ -1,2 +1,2 @@
 # Customer-Spend-Prediction
-Tuned a XGBoost regression model to predict customer spend based on 299 masked features, achieving a MSE of 912, as compared to the baseline Linear Regression model which had a MSE of 38575.
+Trained a XGBoost regression model to predict customer spend amount based on 299 masked features. The tuned model achieved a val MSE of 912, as compared to the baseline Linear Regression model which had a val MSE of 38575.
